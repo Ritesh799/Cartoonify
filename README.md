@@ -9,3 +9,10 @@ Welcome to the Cartoonify Image Python project! This project aims to provide a s
 - **Cartoonify Image:** Easily convert your images into cartoon-style representations.
 - **Customization:** Fine-tune the cartoonification process with customizable parameters.
 - **User-Friendly:** Simple command-line interface for a seamless user experience.
+
+## prerequisite
+
+- **cv2
+- **Numpy
+- **Matplotlib
+
