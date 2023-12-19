@@ -12,7 +12,7 @@ Welcome to the Cartoonify Image Python project! This project aims to provide a s
 
 ## prerequisite
 
-- **cv2
-- **Numpy
-- **Matplotlib
+- cv2
+- Numpy
+- Matplotlib
 
